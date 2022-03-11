@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ChartOfAccountsPredefinedItems" version="2.12">
+	<Item id="c3d5d180-b24f-42a3-8607-f0047cc09f43">
+		<Name>Выручка</Name>
+		<Code>90.2</Code>
+		<Description>Выручка</Description>
+		<AccountType>Passive</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+	</Item>
+	<Item id="232160d6-1049-4bbe-bd5f-d3ec2f40aaf7">
+		<Name>Касса</Name>
+		<Code>50</Code>
+		<Description>Касса</Description>
+		<AccountType>Active</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+	</Item>
+	<Item id="99ccb50b-0b15-4ba8-a146-27c4d0d3830a">
+		<Name>Прибыль</Name>
+		<Code>20</Code>
+		<Description>Прибыль</Description>
+		<AccountType>Passive</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+	</Item>
+	<Item id="dc95b9f2-d797-43f1-8d65-f56786b15b06">
+		<Name>РасчетныеСчета</Name>
+		<Code>51</Code>
+		<Description>Расчетные счета</Description>
+		<AccountType>Active</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+	</Item>
+	<Item id="c8e9ca32-2ff7-423c-b124-1a9a8a192482">
+		<Name>РасчетыСПокупатели</Name>
+		<Code>62</Code>
+		<Description>Расчеты с покупатели</Description>
+		<AccountType>Active</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+	</Item>
+	<Item id="8387f678-904a-4db5-b7bd-c21aca88283e">
+		<Name>РасчетыСПоставщиками</Name>
+		<Code>60</Code>
+		<Description>Расчеты с поставщиками</Description>
+		<AccountType>Passive</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+	</Item>
+	<Item id="cc01d617-de64-4aac-bd84-3b5c21c44e44">
+		<Name>Себестоимость</Name>
+		<Code>90.1</Code>
+		<Description>Себестоимость</Description>
+		<AccountType>Active</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+	</Item>
+	<Item id="45a580e0-4411-4441-a368-748c658c8beb">
+		<Name>Товары</Name>
+		<Code>41</Code>
+		<Description>Товары</Description>
+		<AccountType>Active</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+	</Item>
+</PredefinedData>
